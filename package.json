@@ -1,0 +1,22 @@
+{
+  "name": "personalized_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrZimmer/personalized_dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrZimmer/personalized_dashboard/issues"
+  },
+  "homepage": "https://github.com/DrZimmer/personalized_dashboard#readme",
+  "dependencies": {
+    "concurrently": "^7.4.0"
+  }
+}
